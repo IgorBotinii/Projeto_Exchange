@@ -1,0 +1,7 @@
+123456789
+123321
+Igor Botini
+Reais:1400.00
+Bitcoin:0.0534
+Ripple: 0
+Ethereum: 0
